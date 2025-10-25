@@ -1,1 +1,8 @@
+pandas>=1.5
+numpy>=1.23
+scikit-learn>=1.1
+nltk>=3.8
+tqdm>=4.64
+jupyterlab>=3.0
+
 
